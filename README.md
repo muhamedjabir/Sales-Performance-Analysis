@@ -75,7 +75,7 @@ A searchable product-level table that allows users to quickly find and analyze i
 
 - Some products generate high sales but relatively lower profit margins.
 
-  ## SQL Analysis ##
+## SQL Analysis ##
 
 - SQL queries were used to perform analytical operations such as:
 
